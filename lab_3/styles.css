@@ -1,0 +1,69 @@
+body {
+    font-family: Helvetica;
+    background-color:white;
+    color:black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: darkolivegreen;
+    text-align: left;
+}
+
+.contact-info h2 {
+    text-align: center;
+}
+
+.contact-info {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.contact-info img {
+    border-radius: 50%;
+    height: 300px;
+    align-content: center;
+}
+
+a {
+    color: forestgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.experience .skills .education {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.experience img {
+    border-radius: 25%;
+    height: 300px;
+    align-content: center;
+    padding: 2%;
+}
+
+footer {
+    text-align: center;
+    padding: auto;
+    background-color: darkgreen;
+    color: white
+}
